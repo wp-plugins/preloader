@@ -1,9 +1,9 @@
 === Preloader ===
 Contributors: Qassim.Dev
 Donate link: http://j.mp/WPTime_donations
-Tags: preloader, responsive, retina, customize, custom, customizer, customizing, jquery, css3, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
+Tags: preloader, preload, responsive, retina, customize, custom, customizer, customizing, jquery, css3, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.8.0
-Tested up to: 4.2.1
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
