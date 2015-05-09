@@ -12,7 +12,7 @@ Add preloader to your website easily, responsive and retina, full customize, com
 
 == Description ==
 
-### Preloader             
+### Preloader
 
 Add preloader to your website easily, responsive and retina, full customize, compatible with all major browsers.
 
