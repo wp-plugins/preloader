@@ -36,7 +36,6 @@ Add preloader to your website easily, responsive and retina, full customize, com
 ### See Also
 
 * [Collection of 87 themes for $69 only.](http://j.mp/ET_WPTime)
-* [Sahifa - Responsive WordPress News, Magazine, Blog Theme.](http://themeforest.net/item/sahifa-responsive-wordpress-news-magazine-blog-theme/2819356?ref=Perso_themes)
 * [Premium WordPress themes on Creative Market.](http://j.mp/CM_WPTime)
 * [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
 * [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
